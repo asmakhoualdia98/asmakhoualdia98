@@ -116,8 +116,6 @@ I also investigate the **logical formulation and self-stabilization properties o
 ## 🧾 Certifications
 
 - **Sofrecom Academy (2023)** — Java, Spring Boot, Angular, GitLab CI/CD, Docker, Kubernetes, Agile, UML  
-- **Additional training (2022–2025)** — Python, Constraint Programming, Optimization, AI/ML (details available upon request)
-
 ---
 
 > ✨ “Towards an Explainable and Reliable Swarm AI — combining collective intelligence and formal methods.”
