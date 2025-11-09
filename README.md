@@ -1,6 +1,6 @@
 # 👩‍🔬 Asma Khoualdia
 📍 Amiens, Hauts-de-France, France  
-📧 asma.khoualdia@etud.u-picardie.fr  
+📧 asma.khoualdia@etud.u-picardie.fr | asma.khoualdia@u-picardie.fr  
 📞 +33 6 50 62 84 94  
 🔗 [LinkedIn](https://www.linkedin.com/in/asma-khoualdia-27796b1b8/) | [Google Scholar](https://scholar.google.com/citations?hl=fr&user=8PEd1NAAAAAJ&view_op=list_works&gmla=AKzYXQ3LnO_H0jvxfojbKd51Nva53I0QzH267OaxUH3m9hDVOpu1KPSkmXjkAsIIiJjPPJ98yI5Hq0ysRvWWxk7uRn-kcwtLDf7DHB5HXi17HiZmoQ) | [GitHub](https://github.com/asmakhoualdia98)
 
