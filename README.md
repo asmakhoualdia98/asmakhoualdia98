@@ -9,7 +9,7 @@
 My research focuses on **autonomous robot swarms** and how they achieve collective intelligence through simple local rules without direct communication.  
 I employ **formal verification, automatic synthesis, and optimization methods** grounded in **satisfiability (SAT/Max-SAT)** and **constraint programming** to guarantee correctness, self-stabilization, and robustness in swarm behaviors.
 
-I also investigate the **logical formulation and self-stabilization properties of distributed algorithms**, such as the *Synchronous Unison* algorithm by Arora et al., using satisfiability-based approaches.
+I also investigate the **logical formulation and self-stabilization properties of distributed algorithms** using satisfiability-based approaches.
 
 ---
 
