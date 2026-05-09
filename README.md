@@ -104,7 +104,7 @@ I also investigate the **logical formulation and self-stabilization properties o
 ---
 
 ## 🧑‍⚖️ Services
-- Reviewer: **CP2025**
+- Reviewer: **CP2025**, **CP2026**
 
 ---
 
@@ -127,6 +127,3 @@ I also investigate the **logical formulation and self-stabilization properties o
 ## 🧾 Certifications
 
 - **Sofrecom Academy (2023)** — Java, Spring Boot, Angular, GitLab CI/CD, Docker, Kubernetes, Agile, UML  
----
-
-> ✨ “Towards an Explainable and Reliable Swarm AI — combining collective intelligence and formal methods.”
