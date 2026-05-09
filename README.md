@@ -75,11 +75,23 @@ I also investigate the **logical formulation and self-stabilization properties o
 
 - [C.1] Asma Khoualdia, Sami Cherif, Stéphane Devismes, Léo Robert (2025).  
   *Analyzing Self-Stabilization of Synchronous Unison via Propositional Satisfiability.*  
-  In **The 31st International Conference on Principles and Practice of Constraint Programming (CP2025)**, Glasgow, Scotland.
+  In **The International Conference on Principles and Practice of Constraint Programming (CP2025)**, Glasgow, Scotland.
 
 - [C.2] Asma Khoualdia, Sami Cherif, Stéphane Devismes, Léo Robert (2025).  
   *Analyzing Self-Stabilization of Synchronous Unison via Propositional Satisfiability.*  
   In **Journées Francophones de Programmation par Contraintes (JFPC2025)**, Dijon, France.
+
+- [C.3] Asma Khoualdia, Sami Cherif, Stéphane Devismes, Léo Robert (2026).  
+ *On the Self-Stabilization of Dijkstra's Asynchronous Token Circulation.*  
+ In **The International Conference on Principles and Practice of Constraint Programming (CP2026)**, Lisbon, Portugal.
+
+- [C.4] Asma Khoualdia, Sami Cherif, Stéphane Devismes, Léo Robert (2026).  
+ *On the Self-Stabilization of Dijkstra's Asynchronous Token Circulation.*  
+ In **Journées Francophones de Programmation par Contraintes (JFPC2026)**, Louvain-la-Neuve, Belgium.
+
+- [C.5] Asma Khoualdia, Sami Cherif, Stéphane Devismes, Léo Robert (2026).  
+ *A SAT Approach for Analyzing the Self-stabilization of the Asynchronous Unison.*  
+ In **Conférence Nationale en Intelligence Artificielle (CNIA2026)**, Arras, France.
 
 ---
 
